@@ -28,7 +28,8 @@ TASK-04 : Develop a real-time chat application using WebSocket technology to ena
 * JWT: JSON Web Tokens for authentication.
 * Redux: State management for React application
 
-USAGE
+# USAGE
+
 1.Open your browser and navigate to http://localhost:3000.
 2.Create a new account or log in with existing credentials.
 3.Join a chat room or start a private conversation.
