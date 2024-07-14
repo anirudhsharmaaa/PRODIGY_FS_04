@@ -1,8 +1,14 @@
-# PRODIGY_FS_04
+# Task-04-Full Stack Web Development internship at Prodigy InfoTech 
 # REAL TIME CHAT APPLICATION
+
+# Project Overview
 This project is a real-time chat application developed using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.IO technology. The application allows users to create accounts, join chat rooms, or initiate private conversations, and exchange text messages in real-time. User chat history is stored to ensure conversations are saved and accessible. Additional features such as notifications, user presence indicators, and multimedia file-sharing capabilities enhance the chat experience.
 
-# FEATURES
+## Project Description
+TASK-04 : Develop a real-time chat application using WebSocket technology to enable instant messaging between users. Users should be able to create accounts, join chat rooms or initiate private conversations, and exchange text messages in real-time. Store user chat history too.  
+
+
+# Features
 * User Authentication: Users can create accounts and log in securely.
 * Chat Rooms: Users can join existing chat rooms or create new ones.
 * Private Messaging: Users can initiate private conversations.
@@ -12,21 +18,28 @@ This project is a real-time chat application developed using the MERN stack (Mon
 * User Presence Indicators: Show online/offline status of users (optional feature).
 * Multimedia File Sharing: Share images, videos, and other files within the chat (optional feature).
 
-# TECHNOLOGY USED
+# Technologies Used
+
 * MongoDB: Database for storing user data and chat history.
 * Express.js: Server-side framework.
 * React: Front-end framework.
 * Node.js: Server-side runtime environment.
 * Socket.IO: Real-time communication library.
 * JWT: JSON Web Tokens for authentication.
-* Redux: State management for React application.
+* Redux: State management for React application
 
-# USAGE
-1. Open your browser and navigate to http://localhost:3000.
-2. Create a new account or log in with existing credentials.
-3. Join a chat room or start a private conversation.
-4. Start chatting in real-time!
+USAGE
+1.Open your browser and navigate to http://localhost:3000.
+2.Create a new account or log in with existing credentials.
+3.Join a chat room or start a private conversation.
+4.Start chatting in real-time!
 
-# ACKNOWLEDGEMENT
-* Socket.IO
-* MERN Stack
+
+## contributor
+* Anirudh Sharma - [anirudhsharmaaas@gmail.com]
+* Linkedin - [https://www.linkedin.com/in/anirudhsharmaaas/]
+Feel free to reach out with any questions or feedback!
+
+
+Thank you for your interst in this project.
+Happy Coding! 🥳
